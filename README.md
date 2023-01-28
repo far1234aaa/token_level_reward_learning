@@ -36,7 +36,7 @@ python run_sum.py --dataset_name="cnn_dailymail" --dataset_config="3.0.0" --seed
 python run_sum.py --dataset_name="xsum" --seed=0
 ```
 
-## Experiments
+## Acknowledge
 
 This codebase builds on the following codebases:
 * [**RLPrompt**](https://github.com/mingkaid/rl-prompt)
